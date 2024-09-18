@@ -15,7 +15,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='unsupervised_ml_project',
+    name='ml_project',
     version='0.0.1',
     author="Shrushti Agarwal",
     author_email="agarwal.shrus@northeastern.edu",
